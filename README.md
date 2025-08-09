@@ -37,4 +37,4 @@ Since real UPI transaction data is sensitive and private, this project uses synt
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/upi-fraud-detection-using-synthetic-data.git
-   cd upi-fraud-detection
+   cd upi-fraud-detection-using-synthetic-data
