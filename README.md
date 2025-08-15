@@ -39,10 +39,5 @@ Since real UPI transaction data is sensitive and private, this project uses synt
    git clone https://github.com/your-username/upi-fraud-detection-using-synthetic-data.git
    cd upi-fraud-detection-using-synthetic-data
 
-## 👨‍💻 Authors
-B V L S DINESH – Data preprocessing & model training
 
-G CHINMAYEE SAHITHYA – Dataset creation & feature engineering
-
-CH SIVA CHARAN – Model testing & evaluation
    
